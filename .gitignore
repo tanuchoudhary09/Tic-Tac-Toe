@@ -1,0 +1,8 @@
+# Ignore local compilation outputs
+ttt
+*.exe
+*.out
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
